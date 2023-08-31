@@ -1,0 +1,16 @@
+    body {
+        background-image: burlywood;
+        ;
+    }
+    
+    .menu {
+        width: 80%;
+        background-color: burlywood;
+        margin: auto;
+    }
+    
+    h1,
+    h2,
+    p {
+        text-align: center;
+    }

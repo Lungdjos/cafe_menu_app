@@ -11,20 +11,15 @@
     
     .flavor {
         text-align: left;
-        width: 50%;
     }
     
     .price {
         text-align: right;
-        width: 45%;
     }
     
-    h1,
+    .price,
+    .flavor h1,
     h2,
     p {
         text-align: center;
-    }
-    
-    .item p {
-        display: inline-block;
     }
