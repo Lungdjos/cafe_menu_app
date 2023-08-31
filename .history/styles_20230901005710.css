@@ -1,0 +1,38 @@
+body {
+    background-image: url(https://cdn.freecodecamp.org/curriculum/css-cafe/beans.jpg);
+    ;
+}
+
+.menu {
+    width: 80%;
+    background-color: burlywood;
+    margin: auto;
+    padding-left: 35px;
+    padding-right: 20px;
+}
+
+.flavor,
+.dessert {
+    text-align: left;
+    width: 50%;
+}
+
+.price {
+    text-align: right;
+    width: 45%;
+}
+
+h1,
+h2,
+p {
+    text-align: center;
+}
+
+hr {
+    color: #000000;
+    <article class="item"><p class="dessert">Donut</p><p class="price">1.50</p></article><article class="item"><p class="dessert">Cherry Pie</p><p class="price">2.75</p></article><article class="item"><p class="dessert">Cheesecake</p><p class="price">3.00</p></article><article class="item"><p class="dessert">Cinnamon Roll</p><p class="price">2.50</p></article>
+}
+
+.item p {
+    display: inline-block;
+}
