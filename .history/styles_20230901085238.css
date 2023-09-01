@@ -1,10 +1,6 @@
 body {
-    background-image: url(https://images.pexels.com/photos/1695052/pexels-photo-1695052.jpeg) !important;
+    background-image: url(https://cdn.freecodecamp.org/curriculum/css-cafe/beans.jpg);
     font-family: sans-serif;
-    background-size: cover;
-    background-repeat: no-repeat;
-    /* background-attachment: ; */
-    padding: 20px;
 }
 
 .menu {
@@ -33,21 +29,19 @@ p {
 }
 
 .line {
-    background-color: brown !important;
-    height: 4px;
+    background-color: black !important;
+    height: 2px;
     width: 80%;
     align-self: center;
 }
 
 .item p {
     display: inline-block;
-    margin-top: 5px;
-    margin-bottom: 5px;
 }
 
 h1,
 h2 {
-    font-family: Impact, Arial, Helvetica, sans-serif;
+    font-family: Impact, serif;
 }
 
 .divider {
@@ -62,10 +56,5 @@ h2 {
 }
 
 h2 {
-    text-decoration: underline;
-    font-size: 30px;
-}
-
-h1 {
-    font-size: 40px;
+    text-decoration: ;
 }

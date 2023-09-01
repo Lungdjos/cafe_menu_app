@@ -4,7 +4,7 @@ body {
     background-size: cover;
     background-repeat: no-repeat;
     /* background-attachment: ; */
-    padding: 20px;
+    padd
 }
 
 .menu {
@@ -41,8 +41,6 @@ p {
 
 .item p {
     display: inline-block;
-    margin-top: 5px;
-    margin-bottom: 5px;
 }
 
 h1,
