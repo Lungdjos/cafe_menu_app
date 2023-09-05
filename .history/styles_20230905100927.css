@@ -1,11 +1,11 @@
-/* BODY STYLING */
-
-.icon {
+icon {
     display: block;
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: -25px;
+    margin-left: 200p;
+    margin-right: 40%;
 }
+
+
+/* BODY STYLING */
 
 body {
     background-image: url(https://images.pexels.com/photos/1695052/pexels-photo-1695052.jpeg) !important;

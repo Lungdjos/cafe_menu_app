@@ -1,12 +1,3 @@
-/* BODY STYLING */
-
-.icon {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: -25px;
-}
-
 body {
     background-image: url(https://images.pexels.com/photos/1695052/pexels-photo-1695052.jpeg) !important;
     font-family: sans-serif;
@@ -79,7 +70,7 @@ h2 {
 h1 {
     font-size: 40px;
     margin-top: 0;
-    margin-bottom: 15px;
+    margin-bottom: 15;
 }
 
 
@@ -103,8 +94,4 @@ a:hover {
 
 a:active {
     color: white;
-}
-
-.address {
-    margin-bottom: 5px;
 }

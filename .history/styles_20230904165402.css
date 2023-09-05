@@ -1,12 +1,3 @@
-/* BODY STYLING */
-
-.icon {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: -25px;
-}
-
 body {
     background-image: url(https://images.pexels.com/photos/1695052/pexels-photo-1695052.jpeg) !important;
     font-family: sans-serif;
@@ -20,7 +11,7 @@ body {
     width: 80%;
     background-color: burlywood;
     margin: auto;
-    padding: 20px;
+    padding: 20px 20px 20px 40px;
     max-width: 500px;
 }
 
@@ -52,7 +43,7 @@ p {
     display: inline-block;
     margin-top: 5px;
     margin-bottom: 5px;
-    font-size: 30px;
+    font-size: 0;
 }
 
 h1,
@@ -78,33 +69,4 @@ h2 {
 
 h1 {
     font-size: 40px;
-    margin-top: 0;
-    margin-bottom: 15px;
-}
-
-
-/* FOOTER STYLINGS */
-
-footer {
-    font-size: 14px;
-}
-
-a {
-    color: black;
-}
-
-a:visited {
-    color: grey;
-}
-
-a:hover {
-    color: brown;
-}
-
-a:active {
-    color: white;
-}
-
-.address {
-    margin-bottom: 5px;
 }
